@@ -1,0 +1,35 @@
+地质构造建模
+地质格架建模
+断层建模
+层面建模
+网格建模
+储层相建模
+沉积相建模
+构型建模
+岩相建模
+流动单元建模
+储层参数建模
+孔隙度建模
+渗透率建模
+饱和度建模
+储层裂缝建模
+裂缝网络建模
+裂缝密度建模
+裂缝物性建模
+Structural and stratigraphic framework
+Faults modelling
+Surfaces modelling
+Grid modelling
+Reservoir facies modelling
+Sedimentary faceis modelling
+Architechal modelling
+Lithofacies modelling
+Flow unit modelling
+Reservoir propeties modelling
+Porosity modelling
+Permeability modelling
+Saturation modelling
+Reservoir fracture modeling
+ Fracture network modeling
+Fracture density modeling
+Fracture physical modeling
